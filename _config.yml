@@ -21,12 +21,12 @@ repository               : "sobhneek/sobhneek.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sh.jpg"
   name             : "Sobhneek Hothi"
   pronouns         : # example: "she/her"  
   bio              : "MSc Student"
   location         : "Toronto, Canada"
-  employer         : "Institute of Health Policy, Management and Evaluation, University of Toronto"
+  employer         : "University of Toronto"
   uri              : # URL
   email            : "Sobhneek.hothi@mail.utoronto.ca" 
 
