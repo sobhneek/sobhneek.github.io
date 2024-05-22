@@ -9,23 +9,23 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* HBA in Health Studies, Univeristy of Toronto, 2024
-  * Thesis: A Pilot Study on Hospital Ownership Changes & the Implications for Quality of Care & the Financial Health of California Hospitals
-  * Supervisors: Adalsteinn D. Brown, Imtiaz Daniel, David J. Klein
+# Education
 
-Work experience
-======
-* Research Assistant: July 2023 - January 2024
-  * Social Medicine and Population Health - University Health Network
-  * Supervisor: Andrew Boozary
+**HBA in Health Studies**, University of Toronto, Expected 2024
+- **Thesis:** "A Pilot Study on Hospital Ownership Changes & the Implications for Quality of Care & the Financial Health of California Hospitals"
+- **Supervisors:** Adalsteinn D. Brown, Imtiaz Daniel, David J. Klein
 
-* Research Trainee: September 2022 - January 2024
-  * Toronto Rehabilitation Institute - University Health Network
-  * Supervisor: Dr. Jennifer Bethell
-
-* Research Assistant Consultant: May 2023 - July 2023
-  * Alzheimer Society of Canada
-  * Supervisor: Dr. Sarah Main
-  
+## Work Experience
+### Research Assistant
+**Duration:** July 2023 - January 2024  
+**Organization:** Social Medicine and Population Health, University Health Network  
+<div style="margin-bottom: 20px;"></div>
+---
+### Research Trainee
+**Duration:** September 2022 - January 2024  
+**Organization:** Toronto Rehabilitation Institute, University Health Network  
+<div style="margin-bottom: 10px;"></div>
+---
+### Research Assistant Consultant
+**Duration:** May 2023 - July 2023  
+**Organization:** Alzheimer Society of Canada  
