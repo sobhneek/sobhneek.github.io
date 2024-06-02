@@ -96,4 +96,19 @@ $(document).ready(function(){
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
+  function copyCode(button) {
+    // Get the <pre><code> element containing the code
+    var code = button.previousElementSibling.textContent;
+    // Create a temporary textarea element to copy from
+    var textarea = document.createElement('textarea');
+    textarea.value = code;
+    document.body.appendChild(textarea);
+    textarea.select();
+    document.execCommand('copy');
+    document.body.removeChild(textarea);
+    // Optional: Notify the user that the code was copied
+    button.textContent = 'Copied!';
+    setTimeout(() => button.textContent = 'Copy', 2000);
+  }
+
 });
