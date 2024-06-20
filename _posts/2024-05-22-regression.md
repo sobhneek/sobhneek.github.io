@@ -44,8 +44,3 @@ Let's take a look at it.
 ```python
 data.head()
 ```
-
-<div class="code-container">
-<pre><code>data.head()</code></pre>
-<button onclick="copyCode(this)" style="position: absolute; top: 0; right: 0;">Copy</button>
-</div>

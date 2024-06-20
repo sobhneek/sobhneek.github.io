@@ -38,12 +38,11 @@ author_profile: true
       <i class="bi bi-quote" aria-hidden="true"></i> CITE
     </button>
     <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-      <a class="dropdown-item" href="https://raw.githubusercontent.com/sobhneek/sobhneek.github.io/b5a935b5d349dbadb3b67f43154763d4e852af1b/files/RIS/empowering-ontario%E2%80%99s-long-term-care-residents-to-shape-the-place-they-call-home%20-a-codesign-protocol.ris" download="Lee2024.ris">.RIS</a>
-      <a class="dropdown-item" href="https://raw.githubusercontent.com/sobhneek/sobhneek.github.io/b5a935b5d349dbadb3b67f43154763d4e852af1b/files/BIB/empowering-ontario%E2%80%99s-long-term-care-residents-to-shape-the-place-they-call-home%20-a-codesign-protocol.bib" download="Lee2024.bib">.BibTeX</a>
+      <a class="dropdown-item" href="sobhneek.github.io/files/BIB/Lee2024.ris" download="Lee2024.ris">.RIS</a>
+      <a class="dropdown-item" href="sobhneek.github.io/files/BIB/Lee2024.bib" download="Lee2024.bib">.BibTeX</a>
     </div>
   </div>
 </div>
-
 
 ---
 
@@ -64,8 +63,8 @@ author_profile: true
       <i class="bi bi-quote" aria-hidden="true"></i> CITE
     </button>
     <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-      <a class="dropdown-item" href="https://raw.githubusercontent.com/sobhneek/sobhneek.github.io/b5a935b5d349dbadb3b67f43154763d4e852af1b/files/RIS/tandf_camh2028_385.ris" download="Bethell2024.ris">.RIS</a>
-      <a class="dropdown-item" href="https://raw.githubusercontent.com/sobhneek/sobhneek.github.io/b5a935b5d349dbadb3b67f43154763d4e852af1b/files/BIB/tandf_camh2028_385.bib" download="Bethell2024.bib">.BibTeX</a>
+      <a class="dropdown-item" href="sobhneek.github.io/files/RIS/Bethell2024.ris" download="Bethell2024.ris">.RIS</a>
+      <a class="dropdown-item" href="sobhneek.github.io/files/BIB/Bethell2024.BIB" download="Bethell2024.bib">.BibTeX</a>
     </div>
   </div>
 </div>
