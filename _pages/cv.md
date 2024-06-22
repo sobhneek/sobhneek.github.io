@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
 ### HBA in Health Studies, *University of Toronto*, 2024
 - **Thesis:** "A Pilot Study on Hospital Ownership Changes & the Implications for Quality of Care & the Financial Health of California Hospitals"
 - **Supervisors:** Adalsteinn D. Brown, Imtiaz Daniel, David J. Klein
@@ -26,7 +25,7 @@ redirect_from:
     </dl>
   </div>
   <div style="text-align: right;">
-    <div>July 2023 - Present</div>
+    <div>July 2023 - Janurary 2024</div>
   </div>
 </div>
 
