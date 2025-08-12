@@ -2,12 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Research"
-    url: /research/
-        
-  - title: "Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
