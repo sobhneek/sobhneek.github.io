@@ -5,21 +5,36 @@ experience:
   - role: "Sole Proprietor"
     institution: "Hothi Healthcare Consulting"
     period: "Present"
+    description: ""
   - role: "Student Fellow"
     institution: "Health Systems Performance Network"
     period: "2024 - Present"
+    description: ""
+  
   - role: "Researcher"
     institution: "Dalla Lana School of Public Health"
     period: "2024 - Present"
+    description: ""
+
+
   - role: "Research Assistant"
     institution: "Gattuso Centre for Social Medicine, UHN"
     period: "2023 - 2024"
+    description: ""
+
+
   - role: "Research Trainee"
     institution: "KITE, Toronto Rehabilitation Institute, UHN"
     period: "2022 - 2024"
+    description: ""
+
+
+
   - role: "Research Assistant Consultant"
     institution: "Alzheimer Society of Canada"
     period: "2023"
+    description: ""
+
 
 
 education:
