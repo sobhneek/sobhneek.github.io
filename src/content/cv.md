@@ -1,32 +1,36 @@
 ---
-name: "Claude Shannon"
-title: "Mathematician and Electrical Engineer"
+name: "Sobhneek Hothi"
+title: "MSc. Candidate"
 experience:
-  - role: "Research Mathematician"
-    institution: "Bell Telephone Laboratories"
-    period: "1941 - 1972"
-    description: "Conducted groundbreaking research in information theory, cryptography, and digital computing."
-  - role: "Professor of Electrical Engineering"
-    institution: "MIT"
-    period: "1958 - 1978"
-    description: "Taught courses in information theory, switching theory, and mathematical foundations of computing."
+  - role: "Sole Proprietor"
+    institution: "Hothi Healthcare Consulting"
+    period: "Present"
+  - role: "Student Fellow"
+    institution: "Health Systems Performance Network"
+    period: "2024 - Present"
+  - role: "Researcher"
+    institution: "Dalla Lana School of Public Health"
+    period: "2024 - Present"
+  - role: "Research Assistant"
+    institution: "Gattuso Centre for Social Medicine, UHN"
+    period: "2023 - 2024"
+  - role: "Research Trainee"
+    institution: "KITE, Toronto Rehabilitation Institute, UHN"
+    period: "2022 - 2024"
+  - role: "Research Assistant Consultant"
+    institution: "Alzheimer Society of Canada"
+    period: "2023"
+
+
 education:
-  - degree: "PhD in Mathematics"
-    institution: "MIT"
-    period: "1936 - 1940"
-    thesis: "An Algebra for Theoretical Genetics"
-    description: "Developed mathematical foundations for genetic inheritance."
-  - degree: "Bachelor of Science in Electrical Engineering"
-    institution: "University of Michigan"
-    period: "1932 - 1936"
+  - degree: "Master of Science in Health Systems Research"
+    institution: "Institute of Health Policy, Management and Evaluation"
+    period: "2024 - Present"
+    thesis: "Social Risk Adjustment in Prospective Case-Mix Payments for Ontario Hospitals: Is it Necessary?"
+    description: "Committee: Robert J. Reid, Walter P. Wodchis, Imtiaz Daniel"
+  - degree: "Bachelor of Arts in Health Studies"
+    institution: "University of Toronto"
+    period: "2020 - 2024"
+    thesis: "A Pilot Study on Hospital Ownership Changes and the Implications for Quality of Care and Financial Health of California Hospitals"
+    description: "Adalsteinn Brown, David J. Klein, Imtiaz Danie"
 ---
-
-## Skills
-- Information Theory
-- Mathematics
-- Electrical Engineering
-- Cryptography
-- Computer Science
-
-## Biographical Summary
-Extra biographical notes or a summary can go here.
