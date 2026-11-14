@@ -18,7 +18,7 @@ export default defineConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  site: 'https://rubzip.github.io',
+  site: 'https://sobhneek.github.io',
   base: '/academic-portfolio-astro',
   integrations: [sitemap()],
 });
