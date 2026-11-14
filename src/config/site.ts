@@ -3,7 +3,7 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 export const SITE: SiteConfig = {
     website: "https://sobhneekgithub.io",
     author: "Sobhneek Hothi",
-    desc: "Personal academic portfolio and blog of Sobhneek Hothi.",
+    desc: "Personal academic portfolio of Sobhneek Hothi.",
     title: "Sobhneek Hothi",
     ogImage: "sobhneek.webp",
     postPerPage: 5,
@@ -18,9 +18,9 @@ export const THEME_CONFIG: ThemeConfig = {
 };
 
 export const SETTINGS: SettingsConfig = {
-    showTagsInNavbar: true,
-    showRSSInFooter: true,
-    addDevToolsInProduction: true,
+    showTagsInNavbar: false,
+    showRSSInFooter: false,
+    addDevToolsInProduction: false,
 };
 
 const umami: UmamiAnalyticsConfig = {
