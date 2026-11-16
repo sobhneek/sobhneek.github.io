@@ -19,11 +19,10 @@
     "@fontsource/jetbrains-mono": "^5.2.8",
     "@tailwindcss/vite": "^4.2.2",
     "astro": "^6.1.7",
-    "g": "^2.0.1",
     "katex": "^0.19.1",
-    "npm": "^12.2.2",
     "rehype-katex": "^7.0.1",
     "remark-math": "^6.0.0",
-    "tailwindcss": "^4.2.2"
+    "tailwindcss": "^4.2.2",
+    "vite": "^7.3.8"
   }
 }
