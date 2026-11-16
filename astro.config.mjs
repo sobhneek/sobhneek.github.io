@@ -19,6 +19,5 @@ export default defineConfig({
     plugins: [tailwindcss()],
   },
   site: 'https://sobhneek.github.io',
-  base: '/academic-portfolio-astro',
   integrations: [sitemap()],
 });

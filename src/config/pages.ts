@@ -2,8 +2,8 @@ import type { PagesConfig } from "../types";
 
 export const PAGES: PagesConfig = {
     home: {
-        title: "About Me",
-        subtitle: "",
+        title: "",
+        subtitle: "" ,
         isActive: true,
     },
     blog: {
@@ -12,9 +12,9 @@ export const PAGES: PagesConfig = {
         isActive: false,
     },
     publications: {
-        title: "Publications",
-        subtitle: "A collection of research papers and scientific articles.",
-        isActive: false,
+        title: "",
+        subtitle: " This website is still under construction****",
+        isActive: true,
     },
     talks: {
         title: "Talks & Presentations",
@@ -38,7 +38,7 @@ export const PAGES: PagesConfig = {
     },
     cv: {
         title: "Curriculum Vitae",
-        subtitle: "Academic and professional history.",
+        subtitle: "",
         isActive: true,
     },
 };

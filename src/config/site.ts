@@ -1,7 +1,7 @@
 import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, AnalyticsConfig } from "../types";
 
 export const SITE: SiteConfig = {
-    website: "https://sobhneekgithub.io",
+    website: "https://sobhneek.github.io",
     author: "Sobhneek Hothi",
     desc: "Personal academic portfolio of Sobhneek Hothi.",
     title: "Sobhneek Hothi",
@@ -13,8 +13,8 @@ export const SITE: SiteConfig = {
 
 export const THEME_CONFIG: ThemeConfig = {
     lightAndDark: true,
-    themeLight: "light_default",
-    themeDark: "dark_notepad",
+    themeDark: "dark_default",
+    themeLight: "light_notepad"
 };
 
 export const SETTINGS: SettingsConfig = {
